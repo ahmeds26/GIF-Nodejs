@@ -109,7 +109,7 @@ dist
 
 # Serverless directories
 .serverless/
-
+.sh
 # FuseBox cache
 .fusebox/
 
